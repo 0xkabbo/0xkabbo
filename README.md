@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm KABBO</h1>
+<h1 align="center"># Hi there 💖
+, I'm KABBO</h1>
 <h3 align="center">Self Learner | Tech Enthusiast | Open Source Explorer</h3>
 
 ---
